@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">源码保卫战</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="second">这是第二个页面</string>
+     <string name="button1">第一个按钮</string>
+    <string name="button2">第二个按钮</string>
+    <string name="button3">第三个按钮</string>
+</resources>
